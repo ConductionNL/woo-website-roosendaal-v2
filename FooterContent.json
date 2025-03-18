@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Langskomen?",
+      "items": [
+        {
+          "ariaLabel": "Dit kan alleen op afspraak",
+          "value": "Dit kan alleen op afspraak"
+        },
+        {
+          "ariaLabel": "Maak een afspraak",
+          "link": "https://www.roosendaal.nl/afspraak-maken",
+          "value": "Maak een afspraak"
+        }
+      ]
+    },
+    {
+      "title": "Adresgegevens",
+      "items": [
+        {
+          "label": "Balies publiekszaken",
+          "ariaLabel": "Balies publiekszaken",
+          "value": "HUIS van Roosendaal, Stadserf 1 in Roosendaal"
+        },
+        {
+          "label": "Bestuur",
+          "ariaLabel": "Bestuur",
+          "value": "HUIS van Roosendaal, Stadserf 1 in Roosendaal"
+        },
+        {
+          "label": "Postadres",
+          "ariaLabel": "Balies publiekszaken",
+          "value": "Postbus 5000, 4700 KA Roosendaal."
+        }
+      ]
+    }
+  ]
+  
